@@ -44,12 +44,19 @@ The dashboard uses two dynamic measures (Total Policies and Total Claim Amount) 
 
 ---
 
+## 5 Project Structure
+Insurance-Risk-Claims-Analysis
+│
+├─ Insurance Risks and Claims Analysis.pbix
+│
+└─ README.md
+
 ---
 
 ## 6 Dashboard Preview  
 (Attach dashboard screenshots here)  
 Example  
-![Dashboard Preview](Screenshots/dashboard_preview.png)  
+https://github.com/dhana549/INSURANCE-RISK-CLAIMS-ANALYSIS/blob/main/Screenshot%202025-10-18%20201358.png
 
 ---
 
@@ -72,6 +79,4 @@ Example
 1 Developed in Power BI Desktop  
 2 Not published to Power BI Service  
 3 Intended as a portfolio project to showcase data analysis and visualization skills  
-
-## 5 Project Structure  
 
